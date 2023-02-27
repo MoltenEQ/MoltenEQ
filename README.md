@@ -1,8 +1,9 @@
 ## 👋 Hi, I’m @MoltenEQ
+# Computer Sciences Engineer BSc @ BME
 
-* 👀 I’m interested in military vechicles, aeronautics and cosmology. 🚀
+* 👀 I’m interested in way too many things to list here... 🚀
 
-* 🌱 I’m currently learning computer sciences in Budapest, Hungary. 🟥⬜🟩
+* 🌱 I’m currently studying computer sciences (masters) in Budapest, Hungary. 🟥⬜🟩
 
 * 📫 My e-mail address: molteneq.official@gmail.com
 
