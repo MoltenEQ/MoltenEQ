@@ -1,5 +1,5 @@
-## 👋 Hi, I’m @MoltenEQ
-# Computer Sciences Engineer BSc @ BME
+# 👋 Hi, I’m @MoltenEQ
+## Computer Sciences Engineer BSc at BME
 
 * 👀 I’m interested in way too many things to list here... 🚀
 
