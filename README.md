@@ -1,10 +1,9 @@
-# 👋 Hi, I’m @MoltenEQ
-## Computer Sciences Engineer MSc at BME
+# 👋 Hi, I’m Adam (@MoltenEQ)
 
-* 👀 I’m interested in way too many things to list here... 🚀
+## Computer Engineer (MSc) | Graphics & Game Development Enthusiast
 
-* 🌱 I’m currently studying computer sciences (masters) in Budapest, Hungary. 🟥⬜🟩
-
-* 📫 My e-mail address: molteneq.official@gmail.com
-
-* 🎞 Youtube channel: https://www.youtube.com/channel/UCtwIMfcf3wQLbhM_woqWvUg
+- 🎓 Master’s degree in Computer Engineering from Budapest University of Technology and Economics (BME).  
+- 💻 Interested in computer graphics, game development, and creative problem-solving at the intersection of art and code.  
+- 🛠️ Experienced with Unity, Godot, C#, C++, OpenGL, GLSL, Python, and modern software development workflows.  
+- 📂 Currently working on projects involving real-time rendering, procedural generation, and interactive storytelling.  
+- 📫 Reach me at: **molteneq.official@gmail.com**
